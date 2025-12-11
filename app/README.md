@@ -1,4 +1,4 @@
-# Test Stack
+# Test Stack App
 
 ## Run
 
